@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Geethasri-G
-- 👀 Í'm pursuing my graduation as Computer science engineer at MCET
-- 🌱 I'm currently learning as Front end developer in Spotknack 2021
 -  Interested in developing website
 - 📫 Reach me on Linkedln,Gmail
 
